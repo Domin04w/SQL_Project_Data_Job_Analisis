@@ -13,5 +13,5 @@ WHERE
     job_country = 'Poland' AND 
     salary_year_avg IS NOT NULL AND 
     job_title_short = 'Data Analyst'
-ORDER BY salary_year_avg 
+ORDER BY salary_year_avg DESC
 LIMIT 10

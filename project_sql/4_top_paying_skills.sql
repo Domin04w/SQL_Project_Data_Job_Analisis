@@ -10,7 +10,7 @@ WHERE
     job_country = 'Poland'
 GROUP BY skills
 ORDER BY average_salary DESC
-LIMIT 25
+LIMIT 10
 
 /*
 Here’s a concise summary of the top-paying data analyst skills in Poland:
