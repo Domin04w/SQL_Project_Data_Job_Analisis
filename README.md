@@ -58,7 +58,7 @@ LIMIT 10
 
 - **Job Title Variety:** There's a high diversity in job titles, from Data Analyst to Data Architect, reflecting varied roles and specializations within data analytics.
 
-![Top paying roles](assets\Figure_1.png)
+![Top paying roles](assets/Figure_1.png)
 
 ### 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I joined the job postings with the skills data, providing insights into what employers value for high-compensation roles.
